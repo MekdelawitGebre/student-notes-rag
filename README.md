@@ -87,9 +87,7 @@ student-notes-rag/
 │   │
 │   ├── pipeline/
 │   │   └── rag_pipeline.py     # End-to-end RAG logic
-│   │
-│   └── utils/
-│       └── logger.py           # Logging utilities
+
 ```
 
 ---
